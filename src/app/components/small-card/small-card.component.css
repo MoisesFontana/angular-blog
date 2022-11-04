@@ -1,0 +1,25 @@
+.container-small-card {
+  width: 550px;
+  margin: 0 0 1.1rem 1rem;
+  padding-bottom: 1rem;
+  display: flex;
+  border-bottom: #494949 solid 1px;
+}
+
+.small-card-img > img {
+  width: 11rem;
+  height: 7rem;
+}
+
+.small-card-title, .small-card-description {
+  margin-left: .5rem;
+}
+
+.small-card-title > span {
+  color: #6d6c6c;
+  font-size: .9rem;
+}
+
+.small-card-title > h1 {
+  font-size: 1.7rem;
+}

@@ -1,0 +1,18 @@
+.container-menu-bar > ul{
+  display: flex;
+  font-size: 1.4rem;
+}
+
+.container-menu-bar > ul > li {
+  padding: 2.5rem 1rem 1rem 0;
+}
+
+.container-menu-bar > ul > li > a {
+
+  padding: .5rem;
+}
+
+.container-menu-bar > ul > li > a:hover {
+  background-color: #333333;
+  border-radius: 10px;
+}

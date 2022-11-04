@@ -1,0 +1,11 @@
+header > nav {
+  display: flex;
+  justify-content: center;
+}
+
+.articles {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding-top: 1rem;
+  display: flex;
+}
