@@ -7,6 +7,7 @@
 .big-card-img > img {
   width: 100%;
   height: 18rem;
+  border-radius: 5px;
 }
 
 .big-card-title, .big-card-description {
@@ -15,4 +16,5 @@
 
 .big-card-description > a > p {
   color: rgb(165, 164, 164);
+  text-align: justify;
 }

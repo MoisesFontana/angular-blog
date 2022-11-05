@@ -8,8 +8,8 @@
 }
 
 .container-menu-bar > ul > li > a {
-
   padding: .5rem;
+  letter-spacing: .1rem;
 }
 
 .container-menu-bar > ul > li > a:hover {

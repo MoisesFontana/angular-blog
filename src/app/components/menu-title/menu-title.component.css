@@ -4,10 +4,12 @@
 
 .container-menu-title > h1 {
   text-align: center;
-  font-size: 10rem;
+  font-size: 8rem;
+  margin: -.5rem;
+  letter-spacing: .5rem;
+  word-spacing: 1rem;
 }
 
 .container-menu-title > hr {
-  margin: 1.5rem 0;
-  opacity: 0.5;
+  opacity: 0.4;
 }

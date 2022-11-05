@@ -9,10 +9,11 @@
 .small-card-img > img {
   width: 11rem;
   height: 7rem;
+  border-radius: 5px;
 }
 
-.small-card-title, .small-card-description {
-  margin-left: .5rem;
+.small-card-title {
+  margin-left: .7rem;
 }
 
 .small-card-title > span {
